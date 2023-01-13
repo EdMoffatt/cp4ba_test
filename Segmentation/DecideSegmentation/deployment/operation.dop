@@ -4,4 +4,13 @@
   <uuid>00549ea7-37ca-40a8-bce3-457ad361fda5</uuid>
   <decisionModel href="../rules/decisionModel.dmo#150d2f04-edf1-41d6-a141-1e34f9e6acf2"/>
   <targetRuleProject href="../../DecideSegmentation#2b8e0653-d5c6-4fa4-8088-4580600d1d44"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["DecideSegmentation"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
